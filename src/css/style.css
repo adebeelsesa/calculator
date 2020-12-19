@@ -1,0 +1,16 @@
+input[type="button"]
+{
+background-color:#909090 ;
+color: black;
+border-color:#909090  ;
+width:100%;
+}
+input[type="text"]
+{
+text-align: right;
+background-color:white;
+border-color: black ;
+width:100%
+}
+.over-col{line-height: 93px;}
+#display{width: 97%;}
